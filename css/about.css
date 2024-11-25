@@ -58,7 +58,7 @@
 
 .main-banner {
     overflow: hidden;
-    background: #F0F1CA;
+    background: var(--light-yellow);
     position: absolute;
     width: 100%;
     top: 0px;
@@ -67,7 +67,7 @@
 .main-banner img {
     width: 100%;
     opacity: 0.45;
-    max-height: 175px;
+    max-height: 200px;
     height: auto;
    
 } 

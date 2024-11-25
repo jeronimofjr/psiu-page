@@ -4,7 +4,6 @@
     justify-content: center;
     align-items: center;
     font-family: 'Bahnschrift', Arial, sans-serif;
-    ;
     gap: 50px;
     height: 100vh;
     padding: 38px;
@@ -73,8 +72,6 @@
     padding: 0px 7.5px;
     border-radius: 50%;
 }
-
-
 
 @media screen and (min-width: 912px) and (max-width: 1700px) and (max-height: 1150px) {
 

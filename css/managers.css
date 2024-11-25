@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     gap: 75px;
-    background: #F0F1CA;
+    background: var(--light-yellow);
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     padding: 15px;
